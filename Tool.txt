@@ -1,0 +1,4 @@
+Amazon Valid Number Checker
+it will check your number list from a file.txt which is associated with Amazon and which is not .it supports http proxy and multithreading . Fast Checking and unlimited. If you wanna buy this tool contact me via Facebook or Telegram or ICQ. 
+Facebook : https://web.facebook.com/alexrony85/
+Telegram : @alexrony21
