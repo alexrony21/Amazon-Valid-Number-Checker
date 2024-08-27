@@ -1,6 +1,6 @@
 # Amazon Valid Number Checker
 
-The Amazon Valid Number Checker tool will check your number list from a txt file and verify which numbers are registered with Amazon and which are not. This tool supports multithreading for faster checking, auto proxy handling.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Number-Checker/main/Amazon_Valid_Number_Checker.png)
 
 ## Features
 
