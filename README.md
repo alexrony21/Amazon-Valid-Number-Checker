@@ -7,14 +7,14 @@
 ## Features
 
 1. **Support Multithreading**: Faster verification with multithreading.
-2. **Auto Proxy**: Automatically handles proxy configurations.
+2. **Proxy Support**: Support Proxy for better porfermance.
 3. **Fast Checking**: Quickly checks numbers in your list.
 4. **Accurate Results**: Ensures precise verification.
 
 ## Usage
 
 1. **Prepare Your Number List**: Create a text file with the numbers you want to check. Each number should be on a new line.
-2. **Run the Tool**: Use the tool to check the list. The results will indicate which numbers are registered with Amazon.
+2. **Run the Tool**: Use the tool to check the list. The results will indicate which numbers are registered with Amazon and which is not registered.
 
 ## Contact
 
