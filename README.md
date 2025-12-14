@@ -21,6 +21,7 @@
 ## 🤝 Get in Touch
 
 if you want to purchase,
+
 如果你想购买，
 
 - Email     : elowenreply@gmail.com
@@ -28,7 +29,7 @@ if you want to purchase,
 
 ## Note:
 ## 注意：
-This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+If you engage in any illegal activities using this tool, **the author will not take any responsibility.**
 
 此工具为营销人员和企业设计。若您使用此工具从事任何非法活动，作者概不负责。
 
